@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jan 31 14:38:36 2023
+# Process ID: 52864
+# Current directory: D:/verilog_projects/test090_plane_war/test090_plane_war.runs/rom_atk_image_synth_1
+# Command line: vivado.exe -log rom_atk_image.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rom_atk_image.tcl
+# Log file: D:/verilog_projects/test090_plane_war/test090_plane_war.runs/rom_atk_image_synth_1/rom_atk_image.vds
+# Journal file: D:/verilog_projects/test090_plane_war/test090_plane_war.runs/rom_atk_image_synth_1\vivado.jou
+#-----------------------------------------------------------
+source rom_atk_image.tcl -notrace

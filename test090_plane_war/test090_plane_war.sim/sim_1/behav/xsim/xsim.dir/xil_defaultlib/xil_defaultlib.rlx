@@ -1,0 +1,22 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/verilog_projects/test090_plane_war/test090_plane_war.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/ip/rom_atk_image/sim/rom_atk_image.v,1674201118,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/ip/rom_myplane_image/sim/rom_myplane_image.v,,rom_atk_image,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/ip/rom_bg_image/sim/rom_bg_image.v,1673859610,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/ip/rom_start_image/sim/rom_start_image.v,,rom_bg_image,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/ip/rom_end_image/sim/rom_end_image.v,1674097383,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/ip/rom_enemy_image/sim/rom_enemy_image.v,,rom_end_image,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/ip/rom_enemy_image/sim/rom_enemy_image.v,1674201248,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/ip/rom_atk_image/sim/rom_atk_image.v,,rom_enemy_image,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/ip/rom_myplane_image/sim/rom_myplane_image.v,1674133822,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/ip/rom_bg_image/sim/rom_bg_image.v,,rom_myplane_image,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/ip/rom_start_image/sim/rom_start_image.v,1673955108,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/bg_image.v,,rom_start_image,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/bg_image.v,1674097165,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/digital.v,,bg_image,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/digital.v,1673956132,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/divider.v,,digital,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/divider.v,1674096812,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/end_module.v,,divider,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/end_module.v,1674026867,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/game_module.v,,end_module,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/game_module.v,1674994230,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/key_board.v,,game_module,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/key_board.v,1674972307,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/random_seed.v,,key_board,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/random_seed.v,1674135101,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/start_module.v,,random_seed,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/start_module.v,1674026862,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/vga_driver.v,,start_module,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/top_module.v,1674972588,verilog,,,,top_module,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/vga_driver.v,1674096754,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/vga_driver_image.v,,vga_driver,,,,,,,,
+D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/vga_driver_image.v,1673955266,verilog,,D:/verilog_projects/test090_plane_war/test090_plane_war.srcs/sources_1/new/top_module.v,,vga_driver_image,,,,,,,,
