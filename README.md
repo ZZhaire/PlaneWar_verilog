@@ -1,0 +1,2 @@
+# Planewar_verilog
+同济大学数字逻辑大作业,VGA数码管声卡键盘的游戏,直接用vivado2019打开xpr即可
